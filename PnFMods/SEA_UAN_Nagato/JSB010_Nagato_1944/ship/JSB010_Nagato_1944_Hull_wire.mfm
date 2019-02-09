@@ -1,0 +1,14 @@
+<JSB010_Nagato_1944_Hull_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Hull_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Hull_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Hull_a.tga	</Texture>
+	</property>
+</JSB010_Nagato_1944_Hull_wire.mfm>
