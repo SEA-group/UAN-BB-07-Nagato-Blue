@@ -6,15 +6,15 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/aircraft/JAS004_Aichi_E13A_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/aircraft/JAS004_Aichi_E13A_a.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/aircraft/JAS004_Aichi_E13A_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/aircraft/JAS004_Aichi_E13A_n.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/aircraft/JAS004_Aichi_E13A_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/aircraft/JAS004_Aichi_E13A_mg.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/aircraft/default_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_UAN_Nagato/JSB010_Nagato_1944/aircraft/default_ao.dds	</Texture>
 	</property>
 </JAS004_Aichi_E13A.mfm>
